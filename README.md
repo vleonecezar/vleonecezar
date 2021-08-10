@@ -1,4 +1,4 @@
-## Olá, meu nome é Vitor Cezar.
+## Olá, seja bem-vindo!<br /> Meu nome é Vitor Cezar.
 Desenvolvedor Front-End Júnior.
  <div>
   <a href="https://github.com/vleonecezar">
