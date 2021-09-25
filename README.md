@@ -3,7 +3,7 @@
  ### Olá. Seja bem-vindo(a) 👋
 
 <div align="center">
-Desenvolvedor Web focado no Front-End. Tenho experiência em HTML, CSS, JavaScript e ReactJS. Desde que me interessei por programação eu tive a iniciativa de estudar online e    continuo até hoje, sempre buscando as tecnologias atuais e focado na área escolhida. Já tive experiência com NodeJS e Express em pequenos projetos para criar e consumir APIs, o  suficiente para entender o basico de como funciona o ambiente.
+Desenvolvedor Web focado no Front-End. Tenho experiência em HTML, CSS, JavaScript e ReactJS. Desde que me interessei por programação eu tive a iniciativa de estudar online e    continuo até hoje, sempre buscando as tecnologias atuais e focado na área escolhida. Já tive experiência com NodeJS e Express em pequenos projetos para criar e consumir APIs, o suficiente para entender o básico do ambiente Back-End.
 </div><br/>
  
 <div>
