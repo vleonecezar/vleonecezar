@@ -8,8 +8,8 @@ Desenvolvedor Web focado no Front-End. Tenho experiência em HTML, CSS, JavaScri
  
 <div>
 •  Atualmente procurando por trabalho.<br/>
-•  Tenho experiência com HTML, CSS, JavaScript and ReactJS.<br/>
- •  Contato: <b>vleone.job@gmail.com</b> ou direct via <b>Linkedin/Instagram</b>.<br/>
+•  Tenho experiência com HTML, CSS, JavaScript e ReactJS.<br/>
+•  Contato: <b>vleone.job@gmail.com</b> ou direct via <b>Linkedin/Instagram</b>.<br/>
 </div>
  
 <br/>
