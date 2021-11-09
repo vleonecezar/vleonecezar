@@ -3,12 +3,12 @@
  ### Olá. Seja bem-vindo(a) 👋
 
 <div align="center">
-Desenvolvedor Front-End Jr. Tenho experiência em HTML, CSS, JavaScript e ReactJS. Desde que me interessei por programação eu tive a iniciativa de estudar online e    continuo até hoje, sempre buscando as tecnologias atuais e focado na área escolhida. Já tive uma pequena experiência com NodeJS e Express em projetos simples para criar e consumir API, o suficiente para entender o básico de Back-End.
+Desenvolvedor Front-End Júnior. Tenho experiência em HTML, CSS, JavaScript, ReactJS e Redux. Desde que me interessei por programação eu tive a iniciativa de estudar online e por conta própria, sempre buscando as tecnologias atuais e focado na área escolhida. Já tive uma pequena experiência com NodeJS e Express em projetos simples para criar e consumir API, o suficiente para entender o básico de back-end.
 </div><br/>
  
 <div>
 •  Atualmente procurando por trabalho •<br/>
-•  Tenho experiência com HTML, CSS, JavaScript e ReactJS •<br/>
+•  Tenho experiência com HTML, CSS, JavaScript, ReactJS e Redux •<br/>
 •  Contato: <b>vleone.job@gmail.com</b> ou direct via <b>Linkedin/Instagram</b> •<br/>
 </div>
  
