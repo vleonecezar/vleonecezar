@@ -8,7 +8,7 @@ Desenvolvedor Front-End Júnior. Tenho experiência em HTML, CSS, JavaScript, Re
  
 <div>
 •  Atualmente procurando por trabalho •<br/>
-•  Tenho experiência com HTML, CSS, JavaScript, ReactJS e Redux •<br/>
+•  Tenho experiência com HTML, CSS, SASS, JavaScript, ReactJS e Redux •<br/>
 •  Contato: <b>vleone.job@gmail.com</b> ou direct via <b>Linkedin/Instagram</b> •<br/>
 </div>
  
