@@ -32,9 +32,6 @@ Desenvolvedor Front-End Júnior. Tenho experiência em HTML, CSS, JavaScript, Re
 <a href="">
 <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </a>
- <a href="">
-<img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-</a>
 <a href="">
 <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </a>
