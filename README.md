@@ -1,14 +1,13 @@
  <div align="center">
  
- ### Olá. Seja bem-vindo(a) 👋
+ <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Vitor</h1>
 
 <div align="center">
-Desenvolvedor Front-End Júnior. Tenho experiência em HTML, CSS, JavaScript, ReactJS e Redux. Desde que me interessei por programação eu tive a iniciativa de estudar online e por conta própria, sempre buscando as tecnologias atuais e focado na área escolhida. Já tive uma pequena experiência com NodeJS e Express em projetos simples para criar e consumir API, o suficiente para entender o básico de back-end.
+Desenvolvedor Front-End. Tenho experiência em HTML, CSS, JavaScript, TypeScript, ReactJS e Redux. Desde que me interessei por programação eu tive a iniciativa de estudar online e por conta própria, sempre buscando as tecnologias atuais e focado na área do frontend. Já tive uma pequena experiência com NodeJS e Express em projetos simples para criar e consumir API, o suficiente para entender o básico de backend.
 </div><br/>
  
 <div>
 •  Atualmente procurando por trabalho •<br/>
-•  Tenho experiência com HTML, CSS, SASS, JavaScript, ReactJS e Redux •<br/>
 •  Contato: <b>vleone.job@gmail.com</b> ou direct via <b>Linkedin/Instagram</b> •<br/>
 </div>
  
