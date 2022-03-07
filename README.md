@@ -43,6 +43,12 @@ Desde criança eu amo computadores, games, tecnologia em geral, e sempre usei a 
  <a href="">
 <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 </a>
+<a href="">
+<img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</a>
+<a href="">
+<img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</a>
 </div>
  
 </div>
