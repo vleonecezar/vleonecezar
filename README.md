@@ -1,9 +1,9 @@
  <div align="center">
  
- <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Vitor</h1>
+ <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, meu nome é Vitor :)</h1>
 
 <div align="center">
-Desenvolvedor Front-End. Tenho experiência em HTML, CSS, JavaScript, TypeScript, ReactJS e Redux. Desde que me interessei por programação eu tive a iniciativa de estudar online e por conta própria, sempre buscando as tecnologias atuais e focado na área do frontend. Já tive uma pequena experiência com NodeJS e Express em projetos simples para criar e consumir API, o suficiente para entender o básico de backend.
+Desde criança eu amo computadores, games, tecnologia em geral, e sempre usei a internet para adquirir conhecimento. Eu já trabalhei fazendo montagem e manutenção de computadores, até que um dia, estudando inglês no youtube, me deparei com um vídeo sobre programação e esse vídeo me convenceu a ser um desenvolvedor front-end. Descobri esse caminho, amo o que faço e sigo estudando até hoje.
 </div><br/>
  
 <div>
