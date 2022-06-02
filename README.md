@@ -6,13 +6,6 @@
 Sempre gostei de computador, games e tecnologia. Esforçado e curioso, prefiro buscar conhecimento e resolver meus problemas através da internet antes de pedir por auxílio, porém, não hesito em pedi-lo quando não encontro uma solução. Já trabalhei com manutenção de computadores e criação de landing page. Atualmente sou um desenvolvedor frontend e sigo estudando para me tornar um profissional cada vez melhor e me sentir bem comigo mesmo.
 </div><br/>
  
-<div>
-•  Atualmente procurando por trabalho •<br/>
-•  Contato: <b>vleone.job@gmail.com</b> ou direct via <b>Linkedin/Instagram</b> •<br/>
-</div>
- 
-<br/>
- 
 <div> 
 <a href="https://www.linkedin.com/in/vitor-leone-cezar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:vleone.job@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
