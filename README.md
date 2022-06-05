@@ -3,7 +3,7 @@
  <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, meu nome é Vitor :)</h1>
 
 <div align="center">
-Sempre gostei de computador, games e tecnologia. Esforçado e curioso, prefiro buscar conhecimento e resolver meus problemas através da internet antes de pedir por auxílio, porém, não hesito em pedi-lo quando não encontro uma solução. Já trabalhei com manutenção de computadores e criação de landing page. Atualmente sou um desenvolvedor frontend e sigo estudando para me tornar um profissional cada vez melhor e me sentir bem comigo mesmo.
+Sempre gostei de computador, games e tecnologia. Esforçado e curioso, prefiro buscar conhecimento e resolver meus problemas através da internet antes de pedir por auxílio, porém, não hesito em pedi-lo quando não encontro uma solução. Já trabalhei com manutenção de computadores e criação de landing page. Atualmente sou um desenvolvedor frontend e sigo estudando para me tornar um profissional cada vez melhor.
 </div><br/>
  
 <div> 
