@@ -1,9 +1,9 @@
  <div align="center">
  
- <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, meu nome é Vitor :)</h1>
+ <h1>Hey, I'm Vitor! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"></h1>
 
 <div align="center">
-Sempre gostei de computador, games e tecnologia. Esforçado e curioso, prefiro buscar conhecimento e resolver meus problemas através da internet antes de pedir por auxílio, porém, não hesito em pedi-lo quando não encontro uma solução. Já trabalhei com manutenção de computadores e criação de landing page. Atualmente sou um desenvolvedor frontend e sigo estudando para me tornar um profissional cada vez melhor.
+I'm a front-end developer currently focused on React. Since I was a kid I was curious about how the games and websites works, however, without conditions to study it, I thought what "magic" is done so the character jumps in game or how the website displays an animation as soon as I click on a button? Well, today this "magic" came into my hands and I can say that I'm part of it. Now I keep studying and looking for my opportunity to gain experience, to evolve myself with people who is better than me and to conquer my opportunity to make my dreams come true.
 </div><br/>
  
 <div> 
