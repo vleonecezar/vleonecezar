@@ -3,7 +3,7 @@
  <h1>Hey, I'm Vitor! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"></h1>
 
 <div align="center">
-I'm a front-end developer currently focused on React. Since I was a kid I was curious about how the games and websites works, however, without conditions to study it, I thought what "magic" is done so the character jumps in game or how the website displays an animation as soon as I click on a button? Well, today this "magic" came into my hands and I can say that I'm part of it. Now I keep studying and looking for my opportunity to gain experience, to evolve myself with people who is better than me and to conquer my opportunity to make my dreams come true.
+I'm a constantly evolving front-end developer. With a natural ability for self-learning, I have developed the ability to find solutions through the internet for the daily challenges. My passion for technology and games was the foundation for my career choice in development.
 </div><br/>
  
 <div> 
