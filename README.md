@@ -1,6 +1,6 @@
  <div align="center">
  
- <h1>Hey, I'm Vitor! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"></h1>
+ <h1>Hello, I'm Vitor! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"></h1>
 
 <div align="center">
 I'm a constantly evolving front-end developer. With a natural ability for self-learning, I have developed the ability to find solutions through the internet for the daily challenges. My passion for technology and games was the foundation for my career choice in development.
